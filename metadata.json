@@ -4,5 +4,5 @@
   "description": "Example token for my token, meta.",
   "image": "https://raw.githubusercontent.com/ViniSamba/metatest/main/449763539_3822235538061066_6637998073486234139_n.png",
   "external_url": "https://google.com",
-  "attributes": ["memecoin"]
+  "attributes": ["memecoin"],
 }
